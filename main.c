@@ -1,4 +1,8 @@
 #include <stdio.h>
+/*
+Name: Kalvin Paul Mabwa
+ADM: CT102/G/25031/24
+  */
 #include <math.h>
 int main(void) {
   float pricipal_amount, rate, time, compound_interest;
